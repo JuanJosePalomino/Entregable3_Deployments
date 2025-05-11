@@ -1,0 +1,12 @@
+{
+  "name": "mi-app-formulario",
+  "version": "1.0.0",
+  "description": "Formulario para despliegue en Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
